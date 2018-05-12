@@ -1,0 +1,29 @@
+_repo: A-booke-called-the-Foundacion-of-Rhetorikequestions-verie-profitable-to-bee-knowen-and-redde_26056
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rainolde, Richard
+    alias: Reynolds, Richard
+    deathdate: 1606
+    gutenberg_agent_id: '31766'
+    url: http://www.gutenberg.org/2009/agents/31766
+description: ''
+gutenberg_issued: '2008-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Rhetoric -- Early works to 1800'
+- !lcc 'PE'
+- !lcsh 'English language -- Rhetoric -- Early works to 1800'
+title: "A booke called the Foundacion of Rhetorike\r\nbecause all other partes of\
+  \ Rhetorike are grounded thereupon, euery parte sette forthe in an Oracion vpon\
+  \ questions, verie profitable to bee knowen and redde"
+url: http://www.gutenberg.org/ebooks/26056
