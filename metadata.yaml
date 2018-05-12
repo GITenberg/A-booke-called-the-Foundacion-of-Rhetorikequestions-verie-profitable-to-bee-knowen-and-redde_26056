@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31766'
     url: http://www.gutenberg.org/2009/agents/31766
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26056#A-booke-called-the-Foundacion-of-Rhetorikequestions-verie-profitable-to-bee-knowen-and-redde
 gutenberg_issued: '2008-07-14'
 gutenberg_type: Text
 identifiers:
